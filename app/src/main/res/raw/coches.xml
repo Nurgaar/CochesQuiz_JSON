@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coches>
+    <coche nombre="mercedes">
+        <nombre_mostrar>Mercedes</nombre_mostrar>
+        <modelo>coche_mercedes</modelo>
+    </coche>
+    <coche nombre="bmw">
+        <nombre_mostrar>BMW</nombre_mostrar>
+        <modelo>coche_bmw</modelo>
+    </coche>
+    <coche nombre="ferrari">
+        <nombre_mostrar>Ferrari</nombre_mostrar>
+        <modelo>coche_ferrari</modelo>
+    </coche>
+    <coche nombre="tesla">
+        <nombre_mostrar>Tesla</nombre_mostrar>
+        <modelo>coche_tesla</modelo>
+    </coche>
+</coches>
+
+<!-- Se quitan las extensiones pq RAW no tiene que leer las extensiones, por lo que se quitan-->
